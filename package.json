@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.11.0"
+    "simplelightbox": "^2.11.0",
+    "v8-compile-cache": "^2.3.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
